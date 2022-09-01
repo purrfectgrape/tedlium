@@ -1,0 +1,2 @@
+# tedlium
+TEDLIUM speaker info
